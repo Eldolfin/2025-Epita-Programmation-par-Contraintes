@@ -1,0 +1,1 @@
+/home/oscar/EPITA/ING2/S8/PrCon/target/release/solver: /home/oscar/EPITA/ING2/S8/PrCon/src/bin/solver.rs /home/oscar/EPITA/ING2/S8/PrCon/src/board.rs /home/oscar/EPITA/ING2/S8/PrCon/src/lib.rs /home/oscar/EPITA/ING2/S8/PrCon/src/solvers/dumb.rs /home/oscar/EPITA/ING2/S8/PrCon/src/solvers/mod.rs

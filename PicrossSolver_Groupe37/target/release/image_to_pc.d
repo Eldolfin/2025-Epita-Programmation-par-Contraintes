@@ -1,0 +1,1 @@
+/home/oscar/EPITA/ING2/S8/PrCon/target/release/image_to_pc: /home/oscar/EPITA/ING2/S8/PrCon/src/bin/image_to_pc.rs /home/oscar/EPITA/ING2/S8/PrCon/src/board.rs /home/oscar/EPITA/ING2/S8/PrCon/src/lib.rs /home/oscar/EPITA/ING2/S8/PrCon/src/solvers/dumb.rs /home/oscar/EPITA/ING2/S8/PrCon/src/solvers/mod.rs
