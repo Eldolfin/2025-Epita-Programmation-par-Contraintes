@@ -26,7 +26,8 @@ demo-1:
 # Existing tool
 demo-2:
     #!/usr/bin/env bash
-    @git clone https://github.com/tsionyx/nonogrid || true
+    set -xe
+    git clone https://github.com/tsionyx/nonogrid || true
     cd nonogrid
     wget -qO- https://webpbn.com/export.cgi --post-data "id=32480&fmt=nin&go=1" | cargo run -q --release 2>/dev/null | lolcat
 
